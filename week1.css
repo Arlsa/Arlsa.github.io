@@ -1,0 +1,113 @@
+html,
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+header{
+    background-image: url(headerbg.jpeg);
+    height: 100px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px;
+    padding-top: 10px;
+}
+
+.top{
+    color: white;
+    text-decoration: none;
+}
+
+body{
+    text-align: left;
+    background-color: #35748C;
+    padding: 0;
+    margin: 0;
+}
+
+body h2{
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
+    color: white;
+    margin: 65px 70px;
+}
+
+.line{
+    border-left-style: solid;
+    border-left-width: 10px;
+    padding-left: 15px;
+}
+
+body p{
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+    color: #C9DBE7;
+    margin: 35px 100px;
+    font-weight: normal;
+}
+
+body h3{
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    color: #C9DBE7;
+    margin: 70px 70px 25px 70px;
+}
+
+body h4{
+    font-size: 35px;
+    font-family: 'Playfair Display', serif;
+    color: #C9DBE7;
+    margin: 25px 70px;
+}
+
+body img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.source{
+    font-size: 15px;
+    font-family: 'Playfair Display', serif;
+    color: #C9DBE7;
+    margin: 10px 70px;
+    text-align: center;
+}
+
+.source a{
+    color: #C9DBE7;
+}
+
+.link{
+    color: #C9DBE7;
+}
+
+.link:hover{
+    color: #35748C;
+}
+
+footer{
+    background-color: #C9DBE7;
+    color: #35748C;
+    text-align: center;
+    margin-top: 70px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+}
+
+h5{
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    color: #C9DBE7;
+    margin: 25px 70px;
+}
